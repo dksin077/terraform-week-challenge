@@ -15,3 +15,6 @@ variable "image_id" {
 variable "buckte_name" {
   type = string
 }
+variable "dynamodb_name" {
+  type = string
+}
